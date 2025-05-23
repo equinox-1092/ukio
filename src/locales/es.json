@@ -1,0 +1,35 @@
+{
+  "option": {
+    "home": "Inicio",
+    "apartment": "Departamento"
+  },
+  "home": {
+      "title": "Ciudades Ukio",
+      "text": "Siéntete como en casa dondequiera que vayas"
+    },
+    "cities": {
+      "cityName": "Nombre de la ciudad",
+      "description": "Descripción",
+      "population": "Población",
+      "quantityOfApartments": "Cantidad de Apartamentos"
+    },
+    "apartment": {
+      "title": "Alquilar Apartamento",
+      "name":"Nombre",
+      "description":"Descripción",
+      "numberParking":"Número de Parking",
+      "numberBedroom":"Número de Habitaciones",
+      "Price":"Precio",
+      "rent":"Alquilar",
+      "startDate":"Fecha de inicio",
+      "endDate":"Fecha de finalización",
+      "makeRent":"Hacer alquiler"
+    },
+  "page-not-found": {
+    "title": "¡Página no encontrada!",
+    "unavailable-path1": "Lo sentimos, pero la ruta ",
+    "unavailable-path2": " no existe o no se encuentra disponible en estos momentos",
+    "go-home-phrase": "Puedes regresar a Inicio haciendo clic en este botón",
+    "go-home-btn": "Ir a Inicio"
+  }
+}

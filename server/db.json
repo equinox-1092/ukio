@@ -1,0 +1,391 @@
+{
+  "cities": [
+    {
+      "cityId": 1,
+      "cityName": "Madrid",
+      "country": "España",
+      "population": 3266126,
+      "description": "Capital de España, centro político y cultural con importantes museos, parques y una animada vida urbana."
+    },
+    {
+      "cityId": 2,
+      "cityName": "Barcelona",
+      "country": "España",
+      "population": 1636762,
+      "description": "Ciudad costera famosa por su arquitectura modernista, la Sagrada Familia y su ambiente cosmopolita."
+    },
+    {
+      "cityId": 3,
+      "cityName": "Valencia",
+      "country": "España",
+      "population": 794288,
+      "description": "Ciudad portuaria reconocida por la Ciudad de las Artes y las Ciencias y la paella valenciana."
+    },
+    {
+      "cityId": 4,
+      "cityName": "Sevilla",
+      "country": "España",
+      "population": 684234,
+      "description": "Capital de Andalucía, conocida por el flamenco, su casco antiguo y la Semana Santa."
+    },
+    {
+      "cityId": 5,
+      "cityName": "Zaragoza",
+      "country": "España",
+      "population": 675301,
+      "description": "Ciudad ubicada a orillas del río Ebro, famosa por la Basílica del Pilar y su patrimonio romano."
+    },
+    {
+      "cityId": 6,
+      "cityName": "Málaga",
+      "country": "España",
+      "population": 579076,
+      "description": "Destino turístico en la Costa del Sol, cuna de Picasso y con una vibrante escena cultural."
+    },
+    {
+      "cityId": 7,
+      "cityName": "Bilbao",
+      "country": "España",
+      "population": 345821,
+      "description": "Ciudad del País Vasco destacada por el Museo Guggenheim y su transformación urbana moderna."
+    }
+  ],
+  "aparments": [
+    {
+      "apartmentId": 1,
+      "cityId": 1,
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 1694.43,
+      "squareMeters": 103,
+      "description": "Apartamento moderno en Madrid",
+      "startDate": "2025-05-24",
+      "endDate": "2025-06-27",
+      "state": "A"
+    },
+    {
+      "apartmentId": 2,
+      "cityId": 1,
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 2409.39,
+      "squareMeters": 117,
+      "description": "Apartamento moderno en Madrid",
+      "startDate": "2025-06-09",
+      "endDate": "2025-10-18",
+      "state": "A"
+    },
+    {
+      "apartmentId": 3,
+      "cityId": 1,
+      "numberBedrooms": 2,
+      "numberGarage": 0,
+      "Price": 1189.61,
+      "squareMeters": 127,
+      "description": "Apartamento moderno en Madrid",
+      "startDate": "2025-06-05",
+      "endDate": "2025-08-02",
+      "state": "A"
+    },
+    {
+      "apartmentId": 4,
+      "cityId": 1,
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 1807.14,
+      "squareMeters": 93,
+      "description": "Apartamento moderno en Madrid",
+      "startDate": "2025-05-23",
+      "endDate": "2025-10-21",
+      "state": "A"
+    },
+    {
+      "apartmentId": 5,
+      "cityId": 2,
+      "numberBedrooms": 3,
+      "numberGarage": 1,
+      "Price": 1969.32,
+      "squareMeters": 77,
+      "description": "Apartamento moderno en Barcelona",
+      "startDate": "2025-06-13",
+      "endDate": "2025-10-12",
+      "state": "A"
+    },
+    {
+      "apartmentId": 6,
+      "cityId": 2,
+      "numberBedrooms": 1,
+      "numberGarage": 1,
+      "Price": 2617.99,
+      "squareMeters": 51,
+      "description": "Apartamento moderno en Barcelona",
+      "startDate": "2025-05-25",
+      "endDate": "2025-08-10",
+      "state": "A"
+    },
+    {
+      "apartmentId": 7,
+      "cityId": 3,
+      "numberBedrooms": 1,
+      "numberGarage": 2,
+      "Price": 1776.2,
+      "squareMeters": 141,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-09",
+      "endDate": "2025-11-12",
+      "state": "A"
+    },
+    {
+      "apartmentId": 8,
+      "cityId": 3,
+      "numberBedrooms": 4,
+      "numberGarage": 2,
+      "Price": 1510.77,
+      "squareMeters": 144,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-10",
+      "endDate": "2025-07-18",
+      "state": "A"
+    },
+    {
+      "apartmentId": 9,
+      "cityId": 3,
+      "numberBedrooms": 2,
+      "numberGarage": 2,
+      "Price": 808.11,
+      "squareMeters": 110,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-06",
+      "endDate": "2025-10-14",
+      "state": "A"
+    },
+    {
+      "apartmentId": 10,
+      "cityId": 3,
+      "numberBedrooms": 4,
+      "numberGarage": 0,
+      "Price": 2113.63,
+      "squareMeters": 143,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-20",
+      "endDate": "2025-08-17",
+      "state": "A"
+    },
+    {
+      "apartmentId": 11,
+      "cityId": 3,
+      "numberBedrooms": 2,
+      "numberGarage": 2,
+      "Price": 1509.92,
+      "squareMeters": 42,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-16",
+      "endDate": "2025-07-03",
+      "state": "A"
+    },
+    {
+      "apartmentId": 12,
+      "cityId": 3,
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 1117.75,
+      "squareMeters": 43,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-15",
+      "endDate": "2025-11-13",
+      "state": "A"
+    },
+    {
+      "apartmentId": 13,
+      "cityId": 3,
+      "numberBedrooms": 4,
+      "numberGarage": 0,
+      "Price": 909.82,
+      "squareMeters": 103,
+      "description": "Apartamento moderno en Valencia",
+      "startDate": "2025-06-04",
+      "endDate": "2025-10-20",
+      "state": "A"
+    },
+    {
+      "apartmentId": 14,
+      "cityId": 4,
+      "numberBedrooms": 4,
+      "numberGarage": 2,
+      "Price": 1699.92,
+      "squareMeters": 97,
+      "description": "Apartamento moderno en Sevilla",
+      "startDate": "2025-06-18",
+      "endDate": "2025-08-12",
+      "state": "A"
+    },
+    {
+      "apartmentId": 15,
+      "cityId": 4,
+      "numberBedrooms": 1,
+      "numberGarage": 2,
+      "Price": 2720.63,
+      "squareMeters": 149,
+      "description": "Apartamento moderno en Sevilla",
+      "startDate": "2025-06-20",
+      "endDate": "2025-08-18",
+      "state": "A"
+    },
+    {
+      "apartmentId": 16,
+      "cityId": 4,
+      "numberBedrooms": 3,
+      "numberGarage": 1,
+      "Price": 2072.34,
+      "squareMeters": 60,
+      "description": "Apartamento moderno en Sevilla",
+      "startDate": "2025-05-29",
+      "endDate": "2025-07-07",
+      "state": "A"
+    },
+    {
+      "apartmentId": 17,
+      "cityId": 5,
+      "numberBedrooms": 3,
+      "numberGarage": 0,
+      "Price": 1270.03,
+      "squareMeters": 114,
+      "description": "Apartamento moderno en Zaragoza",
+      "startDate": "2025-06-10",
+      "endDate": "2025-09-04",
+      "state": "A"
+    },
+    {
+      "apartmentId": 18,
+      "cityId": 5,
+      "numberBedrooms": 4,
+      "numberGarage": 2,
+      "Price": 2930.66,
+      "squareMeters": 117,
+      "description": "Apartamento moderno en Zaragoza",
+      "startDate": "2025-05-23",
+      "endDate": "2025-09-19",
+      "state": "A"
+    },
+    {
+      "apartmentId": 19,
+      "cityId": 5,
+      "numberBedrooms": 4,
+      "numberGarage": 1,
+      "Price": 1676.41,
+      "squareMeters": 129,
+      "description": "Apartamento moderno en Zaragoza",
+      "startDate": "2025-06-05",
+      "endDate": "2025-09-03",
+      "state": "A"
+    },
+    {
+      "apartmentId": 20,
+      "cityId": 5,
+      "numberBedrooms": 4,
+      "numberGarage": 0,
+      "Price": 2394.76,
+      "squareMeters": 134,
+      "description": "Apartamento moderno en Zaragoza",
+      "startDate": "2025-05-22",
+      "endDate": "2025-07-03",
+      "state": "A"
+    },
+    {
+      "apartmentId": 21,
+      "cityId": 5,
+      "numberBedrooms": 2,
+      "numberGarage": 1,
+      "Price": 1345.16,
+      "squareMeters": 80,
+      "description": "Apartamento moderno en Zaragoza",
+      "startDate": "2025-06-04",
+      "endDate": "2025-11-05",
+      "state": "A"
+    },
+    {
+      "apartmentId": 22,
+      "cityId": 6,
+      "numberBedrooms": 3,
+      "numberGarage": 1,
+      "Price": 1002.29,
+      "squareMeters": 40,
+      "description": "Apartamento moderno en M\u00e1laga",
+      "startDate": "2025-06-12",
+      "endDate": "2025-07-22",
+      "state": "A"
+    },
+    {
+      "apartmentId": 23,
+      "cityId": 7,
+      "numberBedrooms": 2,
+      "numberGarage": 0,
+      "Price": 2643.49,
+      "squareMeters": 80,
+      "description": "Apartamento moderno en Bilbao",
+      "startDate": "2025-06-04",
+      "endDate": "2025-08-06",
+      "state": "A"
+    },
+    {
+      "apartmentId": 24,
+      "cityId": 7,
+      "numberBedrooms": 1,
+      "numberGarage": 1,
+      "Price": 2411.01,
+      "squareMeters": 115,
+      "description": "Apartamento moderno en Bilbao",
+      "startDate": "2025-06-09",
+      "endDate": "2025-10-09",
+      "state": "A"
+    },
+    {
+      "apartmentId": 25,
+      "cityId": 7,
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 1306.04,
+      "squareMeters": 130,
+      "description": "Apartamento moderno en Bilbao",
+      "startDate": "2025-06-17",
+      "endDate": "2025-11-16",
+      "state": "A"
+    },
+    {
+      "apartmentId": 26,
+      "cityId": 7,
+      "numberBedrooms": 3,
+      "numberGarage": 0,
+      "Price": 2688.05,
+      "squareMeters": 71,
+      "description": "Apartamento moderno en Bilbao",
+      "startDate": "2025-06-04",
+      "endDate": "2025-10-27",
+      "state": "A"
+    },
+    {
+      "apartmentId": 27,
+      "cityId": 7,
+      "numberBedrooms": 4,
+      "numberGarage": 2,
+      "Price": 1880.79,
+      "squareMeters": 137,
+      "description": "Apartamento moderno en Bilbao",
+      "startDate": "2025-05-25",
+      "endDate": "2025-06-27",
+      "state": "A"
+    },
+    {
+      "apartmentId": 28,
+      "cityId": 7,
+      "numberBedrooms": 1,
+      "numberGarage": 0,
+      "Price": 2475.63,
+      "squareMeters": 98,
+      "description": "Apartamento moderno en Bilbao",
+      "startDate": "2025-06-02",
+      "endDate": "2025-10-18",
+      "state": "A"
+    }
+  ]
+}

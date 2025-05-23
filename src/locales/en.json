@@ -1,0 +1,35 @@
+{
+    "option": {
+      "home": "Home",
+      "apartment": "Apartment"
+    },
+    "home": {
+      "title": "Ukio Cities",
+      "text": "Feel at home wherever you go"
+    },
+    "cities": {
+      "cityName": "City Name",
+      "description": "Description",
+      "population": "Population",
+      "quantityOfApartments": "Quantity of Apartments"
+    },
+    "apartment": {
+      "title": "Rent Apartment",
+      "name":"Name",
+      "description":"Description",
+      "numberParking":"Number of Parking",
+      "numberBedroom":"Number of Bedrooms",
+      "Price":"Price",
+      "rent":"Rent",
+      "startDate":"Start Date",
+      "endDate":"End Date",
+      "makeRent":"Make Rent"
+    },
+    "page-not-found": {
+      "title": "Page Not Found!",
+      "unavailable-path1": "Sorry, but the path ",
+      "unavailable-path2": " does not exists or is not available!",
+      "go-home-phrase": "You can return to Home by clicking this button",
+      "go-home-btn": "Go To Home"
+    }
+  }
